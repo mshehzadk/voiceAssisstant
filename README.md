@@ -1,2 +1,2 @@
 # voiceAssisstant
-A voice assisstant that will talk and do the tasks that you will it to do
+A voice assisstant that will be used to get the news and you can listen to it.
